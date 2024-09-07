@@ -1,1 +1,1 @@
-# SmartCents-Algorithm
+# SmartCents Algorithm
