@@ -1,0 +1,801 @@
+,Financial_Planning,Financial_Goals,Analyze_Financial_Position,Tax_Saving_Schemes,Profile_Risk,Prompt_Installment_Payments,Recommended_Course
+0,5,5,5,4,5,5,Understanding Taxes
+1,5,4,3,4,5,5,Frugal Living and Spending Wisely
+2,5,4,3,4,5,5,Frugal Living and Spending Wisely
+3,4,4,4,4,3,5,Investment Basics
+4,5,5,4,4,4,4,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+5,2,3,2,2,2,2,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+6,3,4,3,3,4,3,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+7,2,2,2,4,4,3,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+8,4,4,5,4,4,5,"Budget & Savings, Financial Planning, Investment Basics"
+9,3,3,3,3,3,3,"Budget & Savings, Debt Management, Financial Planning"
+10,5,4,3,4,4,5,Frugal Living and Spending Wisely
+11,4,4,3,4,2,2,"Debt Management, Investment Basics"
+12,3,3,1,2,2,2,Frugal Living and Spending Wisely
+13,4,4,5,4,5,5,"Budget & Savings, Financial Planning, Understanding Taxes"
+14,4,4,4,3,4,4,Understanding Taxes
+15,4,5,4,5,5,5,"Financial Planning, Frugal Living and Spending Wisely"
+16,4,3,4,5,2,4,Investment Basics
+17,3,3,2,2,3,4,"Frugal Living and Spending Wisely, Understanding Taxes"
+18,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+19,3,4,4,1,5,5,Understanding Taxes
+20,2,2,2,3,3,3,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+21,3,3,1,3,3,3,Frugal Living and Spending Wisely
+22,4,4,4,4,1,4,Investment Basics
+23,4,3,5,4,4,5,Budget & Savings
+24,3,1,1,1,1,3,"Budget & Savings, Frugal Living and Spending Wisely, Investment Basics"
+25,1,1,1,1,2,4,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+26,1,1,1,1,2,4,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+27,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+28,3,4,4,4,4,5,Financial Planning
+29,4,4,4,4,2,3,Investment Basics
+30,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+31,4,3,5,1,5,5,Understanding Taxes
+32,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+33,4,4,3,5,4,3,"Debt Management, Frugal Living and Spending Wisely"
+34,3,3,3,3,3,3,"Budget & Savings, Debt Management, Financial Planning"
+35,4,4,3,3,3,5,"Frugal Living and Spending Wisely, Investment Basics, Understanding Taxes"
+36,3,5,4,3,4,4,"Financial Planning, Understanding Taxes"
+37,4,2,2,4,4,3,"Budget & Savings, Frugal Living and Spending Wisely"
+38,4,4,4,3,2,4,Investment Basics
+39,1,1,2,2,1,3,"Budget & Savings, Financial Planning, Investment Basics"
+40,3,4,5,3,5,5,"Financial Planning, Understanding Taxes"
+41,4,4,5,3,5,4,Understanding Taxes
+42,4,4,5,4,5,4,"Budget & Savings, Debt Management, Financial Planning"
+43,4,5,5,4,2,5,Investment Basics
+44,5,4,4,5,5,5,"Budget & Savings, Frugal Living and Spending Wisely"
+45,2,3,2,3,3,3,"Financial Planning, Frugal Living and Spending Wisely"
+46,4,4,3,3,3,3,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+47,4,4,3,3,3,3,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+48,4,4,5,4,3,5,Investment Basics
+49,3,3,3,3,3,3,"Budget & Savings, Debt Management, Financial Planning"
+50,2,1,4,2,2,4,Budget & Savings
+51,3,3,3,2,2,1,Debt Management
+52,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+53,4,3,4,4,3,4,"Budget & Savings, Investment Basics"
+54,3,3,3,3,2,3,Investment Basics
+55,4,5,5,4,4,1,Debt Management
+56,4,4,4,4,3,2,Debt Management
+57,4,4,5,4,3,3,"Debt Management, Investment Basics"
+58,3,3,2,3,3,3,Frugal Living and Spending Wisely
+59,1,1,1,1,1,1,"Budget & Savings, Debt Management, Financial Planning"
+60,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+61,4,4,4,4,5,4,"Budget & Savings, Debt Management, Financial Planning"
+62,4,3,2,4,4,3,Frugal Living and Spending Wisely
+63,2,3,3,2,4,3,"Financial Planning, Understanding Taxes"
+64,3,4,3,4,1,4,Investment Basics
+65,2,4,4,4,2,4,"Financial Planning, Investment Basics"
+66,3,3,3,1,2,4,Understanding Taxes
+67,1,1,1,1,1,1,"Budget & Savings, Debt Management, Financial Planning"
+68,3,1,1,1,1,2,"Budget & Savings, Frugal Living and Spending Wisely, Investment Basics"
+69,5,5,4,4,4,5,"Frugal Living and Spending Wisely, Investment Basics, Understanding Taxes"
+70,3,3,4,4,4,5,"Budget & Savings, Financial Planning"
+71,4,4,4,3,3,3,"Debt Management, Investment Basics, Understanding Taxes"
+72,1,1,2,3,3,1,"Budget & Savings, Debt Management, Financial Planning"
+73,3,4,4,4,3,4,"Financial Planning, Investment Basics"
+74,4,5,4,4,4,5,"Financial Planning, Frugal Living and Spending Wisely, Investment Basics"
+75,4,4,3,4,4,4,Frugal Living and Spending Wisely
+76,1,1,1,2,2,1,"Budget & Savings, Debt Management, Financial Planning"
+77,2,3,5,2,2,5,"Financial Planning, Investment Basics, Understanding Taxes"
+78,4,4,5,4,3,4,Investment Basics
+79,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+80,4,4,4,4,3,5,Investment Basics
+81,2,4,2,4,2,3,"Financial Planning, Frugal Living and Spending Wisely, Investment Basics"
+82,4,4,4,4,4,3,Debt Management
+83,2,3,2,1,3,2,Understanding Taxes
+84,4,3,2,4,4,2,"Debt Management, Frugal Living and Spending Wisely"
+85,5,4,5,2,3,5,Understanding Taxes
+86,4,4,4,3,3,3,"Debt Management, Investment Basics, Understanding Taxes"
+87,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+88,1,2,3,1,3,2,"Financial Planning, Understanding Taxes"
+89,4,4,4,2,3,4,Understanding Taxes
+90,4,4,5,3,4,3,"Debt Management, Understanding Taxes"
+91,3,1,1,3,2,3,"Budget & Savings, Frugal Living and Spending Wisely"
+92,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+93,4,4,3,4,3,4,"Frugal Living and Spending Wisely, Investment Basics"
+94,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+95,5,4,5,5,5,5,Budget & Savings
+96,3,2,3,2,3,2,"Budget & Savings, Debt Management, Understanding Taxes"
+97,4,3,4,3,2,5,Investment Basics
+98,4,4,2,4,3,3,Frugal Living and Spending Wisely
+99,4,4,5,3,5,5,Understanding Taxes
+100,4,4,3,2,4,3,Understanding Taxes
+101,1,1,3,3,2,1,"Budget & Savings, Debt Management, Financial Planning"
+102,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+103,5,4,5,4,4,5,"Budget & Savings, Investment Basics, Understanding Taxes"
+104,3,4,2,2,3,2,"Debt Management, Frugal Living and Spending Wisely, Understanding Taxes"
+105,4,5,4,3,4,4,Understanding Taxes
+106,4,5,4,3,4,4,Understanding Taxes
+107,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+108,4,3,5,5,4,2,Debt Management
+109,4,4,4,5,3,4,Investment Basics
+110,2,2,4,4,4,4,"Budget & Savings, Financial Planning"
+111,2,2,4,4,4,4,"Budget & Savings, Financial Planning"
+112,2,2,2,2,1,5,Investment Basics
+113,4,4,4,5,5,3,Debt Management
+114,5,5,4,5,5,3,Debt Management
+115,4,4,4,3,3,1,Debt Management
+116,4,5,5,4,5,5,"Financial Planning, Understanding Taxes"
+117,4,3,4,3,4,4,"Budget & Savings, Understanding Taxes"
+118,5,5,4,5,4,5,"Frugal Living and Spending Wisely, Investment Basics"
+119,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+120,5,4,5,4,4,4,"Budget & Savings, Debt Management, Investment Basics"
+121,4,5,5,4,4,3,Debt Management
+122,3,3,4,2,2,4,"Investment Basics, Understanding Taxes"
+123,5,5,5,5,5,3,Debt Management
+124,4,3,4,4,4,4,Budget & Savings
+125,4,5,3,4,3,4,"Frugal Living and Spending Wisely, Investment Basics"
+126,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+127,5,4,5,4,5,4,"Budget & Savings, Debt Management, Understanding Taxes"
+128,3,4,4,4,4,5,Financial Planning
+129,1,2,3,2,2,3,Financial Planning
+130,5,5,3,5,3,5,"Frugal Living and Spending Wisely, Investment Basics"
+131,3,3,4,5,5,5,"Budget & Savings, Financial Planning"
+132,4,4,4,5,4,5,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+133,5,4,4,5,3,5,Investment Basics
+134,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+135,4,5,5,5,5,5,Financial Planning
+136,5,4,3,4,5,5,Frugal Living and Spending Wisely
+137,5,4,3,4,5,5,Frugal Living and Spending Wisely
+138,4,4,4,4,3,5,Investment Basics
+139,5,5,4,4,4,4,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+140,2,3,2,2,2,2,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+141,3,4,3,3,4,3,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+142,2,2,2,4,4,3,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+143,4,4,5,4,4,5,"Budget & Savings, Financial Planning, Investment Basics"
+144,3,3,3,3,3,3,"Budget & Savings, Debt Management, Financial Planning"
+145,5,4,3,4,4,5,Frugal Living and Spending Wisely
+146,4,4,3,4,2,2,"Debt Management, Investment Basics"
+147,3,3,1,2,2,2,Frugal Living and Spending Wisely
+148,4,4,5,4,5,5,"Budget & Savings, Financial Planning, Understanding Taxes"
+149,4,4,4,3,4,4,Understanding Taxes
+150,4,5,4,5,5,5,"Financial Planning, Frugal Living and Spending Wisely"
+151,4,3,4,5,2,4,Investment Basics
+152,3,3,2,2,3,5,"Frugal Living and Spending Wisely, Understanding Taxes"
+153,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+154,3,4,4,1,5,5,Understanding Taxes
+155,2,2,2,3,3,3,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+156,3,3,1,3,3,3,Frugal Living and Spending Wisely
+157,4,4,4,4,1,4,Investment Basics
+158,4,3,5,4,4,5,Budget & Savings
+159,3,1,1,1,1,3,"Budget & Savings, Frugal Living and Spending Wisely, Investment Basics"
+160,1,1,1,1,2,4,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+161,1,1,1,1,2,3,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+162,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+163,3,4,4,4,4,5,Financial Planning
+164,4,4,4,4,2,3,Investment Basics
+165,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+166,4,3,5,1,5,5,Understanding Taxes
+167,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+168,4,4,3,5,4,3,"Debt Management, Frugal Living and Spending Wisely"
+169,3,3,3,3,3,3,"Budget & Savings, Debt Management, Financial Planning"
+170,4,4,3,3,3,5,"Frugal Living and Spending Wisely, Investment Basics, Understanding Taxes"
+171,3,5,4,3,4,4,"Financial Planning, Understanding Taxes"
+172,4,2,2,4,4,3,"Budget & Savings, Frugal Living and Spending Wisely"
+173,4,4,4,3,2,4,Investment Basics
+174,1,1,2,2,1,3,"Budget & Savings, Financial Planning, Investment Basics"
+175,3,4,5,3,5,5,"Financial Planning, Understanding Taxes"
+176,4,4,5,1,5,4,Understanding Taxes
+177,4,4,5,1,5,4,Understanding Taxes
+178,4,5,5,4,2,5,Investment Basics
+179,5,4,4,5,5,5,"Budget & Savings, Frugal Living and Spending Wisely"
+180,2,3,2,3,3,3,"Financial Planning, Frugal Living and Spending Wisely"
+181,4,4,3,3,3,3,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+182,4,4,3,3,3,3,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+183,4,4,5,4,3,5,Investment Basics
+184,3,3,3,3,3,3,"Budget & Savings, Debt Management, Financial Planning"
+185,2,1,4,2,2,4,Budget & Savings
+186,3,3,3,2,2,1,Debt Management
+187,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+188,4,3,4,4,3,4,"Budget & Savings, Investment Basics"
+189,3,3,3,3,2,3,Investment Basics
+190,4,5,5,4,4,1,Debt Management
+191,4,4,4,4,3,2,Debt Management
+192,4,4,5,4,3,3,"Debt Management, Investment Basics"
+193,3,3,2,3,3,3,Frugal Living and Spending Wisely
+194,1,1,1,1,1,1,"Budget & Savings, Debt Management, Financial Planning"
+195,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+196,4,4,4,4,5,4,"Budget & Savings, Debt Management, Financial Planning"
+197,4,3,2,4,4,3,Frugal Living and Spending Wisely
+198,2,3,3,2,4,3,"Financial Planning, Understanding Taxes"
+199,3,4,3,4,1,4,Investment Basics
+200,2,4,4,4,2,4,"Financial Planning, Investment Basics"
+201,3,3,3,1,2,4,Understanding Taxes
+202,1,1,1,1,1,1,"Budget & Savings, Debt Management, Financial Planning"
+203,3,1,1,1,1,2,"Budget & Savings, Frugal Living and Spending Wisely, Investment Basics"
+204,5,5,4,4,4,5,"Frugal Living and Spending Wisely, Investment Basics, Understanding Taxes"
+205,3,3,4,4,4,5,"Budget & Savings, Financial Planning"
+206,4,4,4,3,3,3,"Debt Management, Investment Basics, Understanding Taxes"
+207,1,1,2,3,3,1,"Budget & Savings, Debt Management, Financial Planning"
+208,3,4,4,4,3,4,"Financial Planning, Investment Basics"
+209,4,5,4,4,4,5,"Financial Planning, Frugal Living and Spending Wisely, Investment Basics"
+210,4,4,3,4,4,4,Frugal Living and Spending Wisely
+211,1,1,1,2,2,1,"Budget & Savings, Debt Management, Financial Planning"
+212,2,3,5,2,2,5,"Financial Planning, Investment Basics, Understanding Taxes"
+213,4,4,5,4,3,4,Investment Basics
+214,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+215,4,4,4,4,3,5,Investment Basics
+216,2,4,2,4,2,3,"Financial Planning, Frugal Living and Spending Wisely, Investment Basics"
+217,4,4,4,4,4,3,Debt Management
+218,2,3,2,1,3,2,Understanding Taxes
+219,4,3,2,4,4,2,"Debt Management, Frugal Living and Spending Wisely"
+220,5,4,5,2,3,5,Understanding Taxes
+221,4,4,4,3,3,3,"Debt Management, Investment Basics, Understanding Taxes"
+222,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+223,1,2,3,1,3,2,"Financial Planning, Understanding Taxes"
+224,4,4,4,2,3,4,Understanding Taxes
+225,4,4,5,3,4,3,"Debt Management, Understanding Taxes"
+226,3,1,1,3,2,3,"Budget & Savings, Frugal Living and Spending Wisely"
+227,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+228,4,4,3,4,3,4,"Frugal Living and Spending Wisely, Investment Basics"
+229,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+230,5,4,5,5,5,5,Budget & Savings
+231,3,2,3,2,3,2,"Budget & Savings, Debt Management, Understanding Taxes"
+232,4,3,4,3,2,5,Investment Basics
+233,4,4,2,4,3,3,Frugal Living and Spending Wisely
+234,4,4,5,3,5,5,Understanding Taxes
+235,4,4,3,2,4,3,Understanding Taxes
+236,1,1,3,3,2,1,"Budget & Savings, Debt Management, Financial Planning"
+237,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+238,5,4,5,4,4,5,"Budget & Savings, Investment Basics, Understanding Taxes"
+239,3,4,2,2,3,2,"Debt Management, Frugal Living and Spending Wisely, Understanding Taxes"
+240,4,5,4,3,4,4,Understanding Taxes
+241,4,5,4,3,4,4,Understanding Taxes
+242,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+243,4,3,5,5,4,2,Debt Management
+244,4,4,4,5,3,4,Investment Basics
+245,2,2,4,4,4,4,"Budget & Savings, Financial Planning"
+246,2,2,4,4,4,4,"Budget & Savings, Financial Planning"
+247,2,2,2,2,1,5,Investment Basics
+248,4,4,4,5,5,3,Debt Management
+249,5,5,4,5,5,3,Debt Management
+250,4,4,4,3,3,1,Debt Management
+251,4,5,5,4,5,5,"Financial Planning, Understanding Taxes"
+252,4,3,4,3,4,4,"Budget & Savings, Understanding Taxes"
+253,5,5,4,5,4,5,"Frugal Living and Spending Wisely, Investment Basics"
+254,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+255,5,4,5,4,4,4,"Budget & Savings, Debt Management, Investment Basics"
+256,4,5,5,4,4,3,Debt Management
+257,3,3,4,2,2,4,"Investment Basics, Understanding Taxes"
+258,5,5,5,5,5,3,Debt Management
+259,4,3,4,4,4,4,Budget & Savings
+260,4,5,3,4,3,4,"Frugal Living and Spending Wisely, Investment Basics"
+261,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+262,5,4,5,4,5,4,"Budget & Savings, Debt Management, Understanding Taxes"
+263,3,4,4,4,4,5,Financial Planning
+264,1,2,3,2,2,3,Financial Planning
+265,5,5,3,5,3,5,"Frugal Living and Spending Wisely, Investment Basics"
+266,3,3,4,5,5,5,"Budget & Savings, Financial Planning"
+267,4,4,4,5,4,5,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+268,5,4,4,5,3,5,Investment Basics
+269,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+270,4,5,5,5,5,5,Financial Planning
+271,5,4,3,4,5,5,Frugal Living and Spending Wisely
+272,5,4,3,4,5,5,Frugal Living and Spending Wisely
+273,4,4,4,4,3,5,Investment Basics
+274,5,5,4,4,4,4,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+275,2,3,2,2,2,2,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+276,3,4,3,3,4,3,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+277,2,2,2,4,4,3,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+278,4,4,5,4,4,5,"Budget & Savings, Financial Planning, Investment Basics"
+279,3,3,3,3,3,3,"Budget & Savings, Debt Management, Financial Planning"
+280,5,4,3,4,4,5,Frugal Living and Spending Wisely
+281,4,4,3,4,2,2,"Debt Management, Investment Basics"
+282,3,3,1,2,2,2,Frugal Living and Spending Wisely
+283,4,4,5,4,5,5,"Budget & Savings, Financial Planning, Understanding Taxes"
+284,4,4,4,3,4,4,Understanding Taxes
+285,4,5,4,5,5,5,"Financial Planning, Frugal Living and Spending Wisely"
+286,4,3,4,5,2,4,Investment Basics
+287,3,3,2,2,3,5,"Frugal Living and Spending Wisely, Understanding Taxes"
+288,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+289,3,4,4,1,5,5,Understanding Taxes
+290,2,2,2,3,3,3,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+291,3,3,1,3,3,3,Frugal Living and Spending Wisely
+292,4,4,4,4,1,4,Investment Basics
+293,4,3,5,4,4,5,Budget & Savings
+294,3,1,1,1,1,3,"Budget & Savings, Frugal Living and Spending Wisely, Investment Basics"
+295,1,1,1,1,2,4,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+296,1,1,1,1,2,4,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+297,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+298,3,4,4,4,4,5,Financial Planning
+299,4,4,4,4,2,3,Investment Basics
+300,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+301,4,3,5,1,5,5,Understanding Taxes
+302,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+303,4,4,3,5,4,3,"Debt Management, Frugal Living and Spending Wisely"
+304,3,3,3,3,3,3,"Budget & Savings, Debt Management, Financial Planning"
+305,4,4,3,3,3,5,"Frugal Living and Spending Wisely, Investment Basics, Understanding Taxes"
+306,3,5,4,3,4,4,"Financial Planning, Understanding Taxes"
+307,4,2,2,4,4,3,"Budget & Savings, Frugal Living and Spending Wisely"
+308,4,4,4,3,2,4,Investment Basics
+309,1,1,2,2,1,3,"Budget & Savings, Financial Planning, Investment Basics"
+310,3,4,5,3,5,5,"Financial Planning, Understanding Taxes"
+311,4,4,5,1,5,4,Understanding Taxes
+312,4,4,5,1,5,4,Understanding Taxes
+313,4,5,5,4,2,5,Investment Basics
+314,5,4,4,5,5,5,"Budget & Savings, Frugal Living and Spending Wisely"
+315,2,3,2,3,3,3,"Financial Planning, Frugal Living and Spending Wisely"
+316,4,4,3,3,3,3,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+317,4,4,3,3,3,3,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+318,4,4,5,4,3,5,Investment Basics
+319,3,3,3,3,3,3,"Budget & Savings, Debt Management, Financial Planning"
+320,2,1,4,2,2,4,Budget & Savings
+321,3,3,3,2,2,1,Debt Management
+322,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+323,4,3,4,4,3,4,"Budget & Savings, Investment Basics"
+324,3,3,3,3,2,3,Investment Basics
+325,4,5,5,4,4,1,Debt Management
+326,4,4,4,4,3,2,Debt Management
+327,4,4,5,4,3,3,"Debt Management, Investment Basics"
+328,3,3,2,3,3,3,Frugal Living and Spending Wisely
+329,1,1,1,1,1,1,"Budget & Savings, Debt Management, Financial Planning"
+330,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+331,4,4,4,4,5,4,"Budget & Savings, Debt Management, Financial Planning"
+332,4,3,2,4,4,3,Frugal Living and Spending Wisely
+333,2,3,3,2,4,3,"Financial Planning, Understanding Taxes"
+334,3,4,3,4,1,4,Investment Basics
+335,2,4,4,4,2,4,"Financial Planning, Investment Basics"
+336,3,3,3,1,2,4,Understanding Taxes
+337,1,1,1,1,1,1,"Budget & Savings, Debt Management, Financial Planning"
+338,3,1,1,1,1,2,"Budget & Savings, Frugal Living and Spending Wisely, Investment Basics"
+339,5,5,4,4,4,5,"Frugal Living and Spending Wisely, Investment Basics, Understanding Taxes"
+340,3,3,4,4,4,5,"Budget & Savings, Financial Planning"
+341,4,4,4,3,3,3,"Debt Management, Investment Basics, Understanding Taxes"
+342,1,1,2,3,3,1,"Budget & Savings, Debt Management, Financial Planning"
+343,3,4,4,4,3,4,"Financial Planning, Investment Basics"
+344,4,5,4,4,4,5,"Financial Planning, Frugal Living and Spending Wisely, Investment Basics"
+345,4,4,3,4,4,4,Frugal Living and Spending Wisely
+346,1,1,1,2,2,1,"Budget & Savings, Debt Management, Financial Planning"
+347,2,3,5,2,2,5,"Financial Planning, Investment Basics, Understanding Taxes"
+348,4,4,5,4,3,4,Investment Basics
+349,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+350,4,4,4,4,3,5,Investment Basics
+351,2,4,2,4,2,3,"Financial Planning, Frugal Living and Spending Wisely, Investment Basics"
+352,4,4,4,4,4,3,Debt Management
+353,2,3,2,1,3,2,Understanding Taxes
+354,4,3,2,4,4,2,"Debt Management, Frugal Living and Spending Wisely"
+355,5,4,5,2,3,5,Understanding Taxes
+356,4,4,4,3,3,3,"Debt Management, Investment Basics, Understanding Taxes"
+357,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+358,1,2,3,1,3,2,"Financial Planning, Understanding Taxes"
+359,4,4,4,2,3,4,Understanding Taxes
+360,4,4,5,3,4,3,"Debt Management, Understanding Taxes"
+361,3,1,1,3,2,3,"Budget & Savings, Frugal Living and Spending Wisely"
+362,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+363,4,4,3,4,3,4,"Frugal Living and Spending Wisely, Investment Basics"
+364,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+365,5,4,5,5,5,5,Budget & Savings
+366,3,2,3,2,3,2,"Budget & Savings, Debt Management, Understanding Taxes"
+367,4,3,4,3,2,5,Investment Basics
+368,4,4,2,4,3,3,Frugal Living and Spending Wisely
+369,4,4,5,3,5,5,Understanding Taxes
+370,4,4,3,2,4,3,Understanding Taxes
+371,1,1,3,3,2,1,"Budget & Savings, Debt Management, Financial Planning"
+372,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+373,5,4,5,4,4,5,"Budget & Savings, Investment Basics, Understanding Taxes"
+374,3,4,2,2,3,2,"Debt Management, Frugal Living and Spending Wisely, Understanding Taxes"
+375,4,5,4,3,4,4,Understanding Taxes
+376,4,5,4,3,4,4,Understanding Taxes
+377,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+378,4,3,5,5,4,2,Debt Management
+379,4,4,4,5,3,4,Investment Basics
+380,2,2,4,4,4,4,"Budget & Savings, Financial Planning"
+381,2,2,4,4,4,4,"Budget & Savings, Financial Planning"
+382,2,2,2,2,1,5,Investment Basics
+383,4,4,4,5,5,3,Debt Management
+384,5,5,4,5,5,3,Debt Management
+385,4,4,4,3,3,1,Debt Management
+386,4,5,5,4,5,5,"Financial Planning, Understanding Taxes"
+387,4,3,4,3,4,4,"Budget & Savings, Understanding Taxes"
+388,5,5,4,5,4,5,"Frugal Living and Spending Wisely, Investment Basics"
+389,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+390,5,4,5,4,4,4,"Budget & Savings, Debt Management, Investment Basics"
+391,4,5,5,4,4,3,Debt Management
+392,3,3,4,2,2,4,"Investment Basics, Understanding Taxes"
+393,5,5,5,5,5,3,Debt Management
+394,4,3,4,4,4,4,Budget & Savings
+395,4,5,3,4,3,4,"Frugal Living and Spending Wisely, Investment Basics"
+396,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+397,5,4,5,4,5,4,"Budget & Savings, Debt Management, Understanding Taxes"
+398,3,4,4,4,4,5,Financial Planning
+399,1,2,3,2,2,3,Financial Planning
+400,5,5,3,5,3,5,"Frugal Living and Spending Wisely, Investment Basics"
+401,3,3,4,5,5,5,"Budget & Savings, Financial Planning"
+402,4,4,4,5,4,5,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+403,5,4,4,5,3,5,Investment Basics
+404,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+405,4,5,5,5,5,5,Financial Planning
+406,5,4,3,4,5,5,Frugal Living and Spending Wisely
+407,5,4,3,4,5,5,Frugal Living and Spending Wisely
+408,4,4,4,4,3,5,Investment Basics
+409,5,5,4,4,4,4,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+410,2,3,2,2,2,2,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+411,3,4,3,3,4,3,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+412,2,2,2,4,4,3,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+413,4,4,5,4,4,5,"Budget & Savings, Financial Planning, Investment Basics"
+414,3,3,3,3,3,3,"Budget & Savings, Debt Management, Financial Planning"
+415,5,4,3,4,4,5,Frugal Living and Spending Wisely
+416,4,4,3,4,2,2,"Debt Management, Investment Basics"
+417,3,3,1,2,2,2,Frugal Living and Spending Wisely
+418,4,4,5,4,5,5,"Budget & Savings, Financial Planning, Understanding Taxes"
+419,4,4,4,3,4,4,Understanding Taxes
+420,4,5,4,5,5,5,"Financial Planning, Frugal Living and Spending Wisely"
+421,4,3,4,5,2,4,Investment Basics
+422,3,3,2,2,3,5,"Frugal Living and Spending Wisely, Understanding Taxes"
+423,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+424,3,4,4,1,5,5,Understanding Taxes
+425,2,2,2,3,3,3,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+426,3,3,1,3,3,3,Frugal Living and Spending Wisely
+427,4,4,4,4,1,4,Investment Basics
+428,4,3,5,4,4,5,Budget & Savings
+429,3,1,1,1,1,3,"Budget & Savings, Frugal Living and Spending Wisely, Investment Basics"
+430,1,1,1,1,2,4,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+431,1,1,1,1,2,4,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+432,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+433,3,4,4,4,4,5,Financial Planning
+434,4,4,4,4,2,3,Investment Basics
+435,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+436,4,3,5,1,5,5,Understanding Taxes
+437,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+438,4,4,3,5,4,3,"Debt Management, Frugal Living and Spending Wisely"
+439,3,3,3,3,3,3,"Budget & Savings, Debt Management, Financial Planning"
+440,4,4,3,3,3,5,"Frugal Living and Spending Wisely, Investment Basics, Understanding Taxes"
+441,3,5,4,3,4,4,"Financial Planning, Understanding Taxes"
+442,4,2,2,4,4,3,"Budget & Savings, Frugal Living and Spending Wisely"
+443,4,4,4,3,2,4,Investment Basics
+444,1,1,2,2,1,3,"Budget & Savings, Financial Planning, Investment Basics"
+445,3,4,5,3,5,5,"Financial Planning, Understanding Taxes"
+446,4,4,5,1,5,4,Understanding Taxes
+447,4,4,5,1,5,4,Understanding Taxes
+448,4,5,5,4,2,5,Investment Basics
+449,5,4,4,5,5,5,"Budget & Savings, Frugal Living and Spending Wisely"
+450,2,3,2,3,3,3,"Financial Planning, Frugal Living and Spending Wisely"
+451,4,4,3,3,3,3,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+452,4,4,3,3,3,3,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+453,4,4,5,4,3,5,Investment Basics
+454,3,3,3,3,3,3,"Budget & Savings, Debt Management, Financial Planning"
+455,2,1,4,2,2,4,Budget & Savings
+456,3,3,3,2,2,1,Debt Management
+457,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+458,4,3,4,4,3,4,"Budget & Savings, Investment Basics"
+459,3,3,3,3,2,3,Investment Basics
+460,4,5,5,4,4,1,Debt Management
+461,4,4,4,4,3,2,Debt Management
+462,4,4,5,4,3,3,"Debt Management, Investment Basics"
+463,3,3,2,3,3,3,Frugal Living and Spending Wisely
+464,1,1,1,1,1,1,"Budget & Savings, Debt Management, Financial Planning"
+465,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+466,4,4,4,4,5,4,"Budget & Savings, Debt Management, Financial Planning"
+467,4,3,2,4,4,3,Frugal Living and Spending Wisely
+468,2,3,3,2,4,3,"Financial Planning, Understanding Taxes"
+469,3,4,3,4,1,4,Investment Basics
+470,2,4,4,4,2,4,"Financial Planning, Investment Basics"
+471,3,3,3,1,2,4,Understanding Taxes
+472,1,1,1,1,1,1,"Budget & Savings, Debt Management, Financial Planning"
+473,3,1,1,1,1,2,"Budget & Savings, Frugal Living and Spending Wisely, Investment Basics"
+474,5,5,4,4,4,5,"Frugal Living and Spending Wisely, Investment Basics, Understanding Taxes"
+475,3,3,4,4,4,5,"Budget & Savings, Financial Planning"
+476,4,4,4,3,3,3,"Debt Management, Investment Basics, Understanding Taxes"
+477,1,1,2,3,3,1,"Budget & Savings, Debt Management, Financial Planning"
+478,3,4,4,4,3,4,"Financial Planning, Investment Basics"
+479,4,5,4,4,4,5,"Financial Planning, Frugal Living and Spending Wisely, Investment Basics"
+480,4,4,3,4,4,4,Frugal Living and Spending Wisely
+481,1,1,1,2,2,1,"Budget & Savings, Debt Management, Financial Planning"
+482,2,3,5,2,2,5,"Financial Planning, Investment Basics, Understanding Taxes"
+483,4,4,5,4,3,4,Investment Basics
+484,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+485,4,4,4,4,3,5,Investment Basics
+486,2,4,2,4,2,3,"Financial Planning, Frugal Living and Spending Wisely, Investment Basics"
+487,4,4,4,4,4,3,Debt Management
+488,2,3,2,1,3,2,Understanding Taxes
+489,4,3,2,4,4,2,"Debt Management, Frugal Living and Spending Wisely"
+490,5,4,5,2,3,5,Understanding Taxes
+491,4,4,4,3,3,3,"Debt Management, Investment Basics, Understanding Taxes"
+492,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+493,1,2,3,1,3,2,"Financial Planning, Understanding Taxes"
+494,4,4,4,2,3,4,Understanding Taxes
+495,4,4,5,3,4,3,"Debt Management, Understanding Taxes"
+496,3,1,1,3,2,3,"Budget & Savings, Frugal Living and Spending Wisely"
+497,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+498,4,4,3,4,3,4,"Frugal Living and Spending Wisely, Investment Basics"
+499,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+500,5,4,5,5,5,5,Budget & Savings
+501,3,2,3,2,3,2,"Budget & Savings, Debt Management, Understanding Taxes"
+502,4,3,4,3,2,5,Investment Basics
+503,4,4,2,4,3,3,Frugal Living and Spending Wisely
+504,4,4,5,3,5,5,Understanding Taxes
+505,4,4,3,2,4,3,Understanding Taxes
+506,1,1,3,3,2,1,"Budget & Savings, Debt Management, Financial Planning"
+507,5,5,5,5,5,5,"Budget & Savings, Debt Management, Financial Planning"
+508,5,4,5,4,4,5,"Budget & Savings, Investment Basics, Understanding Taxes"
+509,3,4,2,2,3,2,"Debt Management, Frugal Living and Spending Wisely, Understanding Taxes"
+510,4,5,4,3,4,4,Understanding Taxes
+511,4,5,4,3,4,4,Understanding Taxes
+512,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+513,4,3,5,5,4,2,Debt Management
+514,4,4,4,5,3,4,Investment Basics
+515,2,2,4,4,4,4,"Budget & Savings, Financial Planning"
+516,2,2,4,4,4,4,"Budget & Savings, Financial Planning"
+517,2,2,2,2,1,5,Investment Basics
+518,4,4,4,5,5,3,Debt Management
+519,5,5,4,5,5,3,Debt Management
+520,4,4,4,3,3,1,Debt Management
+521,4,5,5,4,5,5,"Financial Planning, Understanding Taxes"
+522,4,3,4,3,4,4,"Budget & Savings, Understanding Taxes"
+523,5,5,4,5,4,5,"Frugal Living and Spending Wisely, Investment Basics"
+524,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+525,5,4,5,4,4,4,"Budget & Savings, Debt Management, Investment Basics"
+526,4,5,5,4,4,3,Debt Management
+527,3,3,4,2,2,4,"Investment Basics, Understanding Taxes"
+528,5,5,5,5,5,3,Debt Management
+529,4,3,4,4,4,4,Budget & Savings
+530,4,5,3,4,3,4,"Frugal Living and Spending Wisely, Investment Basics"
+531,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+532,5,4,5,4,5,4,"Budget & Savings, Debt Management, Understanding Taxes"
+533,3,4,4,4,4,5,Financial Planning
+534,1,2,3,2,2,3,Financial Planning
+535,3,3,3,4,4,3,"Budget & Savings, Debt Management, Financial Planning"
+536,3,3,2,4,2,2,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+537,1,1,1,4,1,1,"Budget & Savings, Debt Management, Financial Planning"
+538,3,2,2,4,2,1,Debt Management
+539,2,2,1,4,2,2,Frugal Living and Spending Wisely
+540,4,4,4,4,3,4,Investment Basics
+541,1,1,3,4,2,3,"Budget & Savings, Financial Planning"
+542,2,2,1,4,2,1,"Debt Management, Frugal Living and Spending Wisely"
+543,3,3,4,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+544,3,3,2,4,3,2,"Debt Management, Frugal Living and Spending Wisely"
+545,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+546,3,3,1,4,3,1,"Debt Management, Frugal Living and Spending Wisely"
+547,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+548,2,1,2,4,3,1,"Budget & Savings, Debt Management"
+549,2,1,2,4,3,2,Budget & Savings
+550,3,2,3,4,3,2,"Budget & Savings, Debt Management"
+551,2,2,2,4,2,2,"Budget & Savings, Debt Management, Financial Planning"
+552,2,3,2,4,2,2,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+553,3,2,3,4,3,3,Budget & Savings
+554,4,5,3,4,3,5,"Frugal Living and Spending Wisely, Investment Basics"
+555,1,2,3,4,3,2,Financial Planning
+556,3,3,3,4,3,2,Debt Management
+557,3,3,1,4,3,2,Frugal Living and Spending Wisely
+558,4,3,2,4,2,4,"Frugal Living and Spending Wisely, Investment Basics"
+559,4,4,4,4,3,4,Investment Basics
+560,2,2,1,4,3,1,"Debt Management, Frugal Living and Spending Wisely"
+561,1,2,1,4,2,1,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+562,1,2,2,4,4,2,Financial Planning
+563,3,3,4,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+564,3,2,2,4,4,2,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+565,3,3,2,4,3,3,Frugal Living and Spending Wisely
+566,2,3,4,4,3,3,Financial Planning
+567,3,3,2,4,3,2,"Debt Management, Frugal Living and Spending Wisely"
+568,3,4,2,4,3,4,Frugal Living and Spending Wisely
+569,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+570,2,2,3,4,3,3,"Budget & Savings, Financial Planning"
+571,3,3,3,4,2,3,Investment Basics
+572,3,2,2,4,3,2,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+573,2,1,2,4,4,1,"Budget & Savings, Debt Management"
+574,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+575,4,3,3,4,4,2,Debt Management
+576,2,2,2,4,2,2,"Budget & Savings, Debt Management, Financial Planning"
+577,3,4,3,4,2,3,Investment Basics
+578,2,3,2,4,3,3,"Financial Planning, Frugal Living and Spending Wisely"
+579,3,3,3,4,4,3,"Budget & Savings, Debt Management, Financial Planning"
+580,2,3,2,4,3,2,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+581,1,1,1,4,3,1,"Budget & Savings, Debt Management, Financial Planning"
+582,2,3,1,4,3,2,Frugal Living and Spending Wisely
+583,3,2,2,4,3,2,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+584,2,3,2,4,4,3,"Financial Planning, Frugal Living and Spending Wisely"
+585,4,3,4,4,2,3,Investment Basics
+586,1,1,4,4,2,1,"Budget & Savings, Debt Management, Financial Planning"
+587,2,2,1,4,3,3,Frugal Living and Spending Wisely
+588,2,2,5,4,3,3,"Budget & Savings, Financial Planning"
+589,3,4,3,4,5,2,Debt Management
+590,1,2,2,4,1,1,"Debt Management, Financial Planning, Investment Basics"
+591,2,2,1,4,3,1,"Debt Management, Frugal Living and Spending Wisely"
+592,3,4,3,4,3,4,"Financial Planning, Frugal Living and Spending Wisely, Investment Basics"
+593,2,3,2,4,3,3,"Financial Planning, Frugal Living and Spending Wisely"
+594,2,3,2,4,2,1,Debt Management
+595,3,4,4,4,3,4,"Financial Planning, Investment Basics"
+596,2,2,3,4,2,3,"Budget & Savings, Financial Planning, Investment Basics"
+597,5,4,3,4,3,3,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+598,3,2,1,4,2,2,Frugal Living and Spending Wisely
+599,2,2,2,4,3,3,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+600,2,2,4,4,2,2,"Budget & Savings, Debt Management, Financial Planning"
+601,1,1,1,4,2,1,"Budget & Savings, Debt Management, Financial Planning"
+602,1,1,1,4,2,1,"Budget & Savings, Debt Management, Financial Planning"
+603,5,3,4,4,5,5,Budget & Savings
+604,2,2,1,4,3,1,"Debt Management, Frugal Living and Spending Wisely"
+605,2,3,2,4,3,2,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+606,1,2,1,4,4,1,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+607,2,3,4,4,2,3,"Financial Planning, Investment Basics"
+608,3,3,2,4,3,2,"Debt Management, Frugal Living and Spending Wisely"
+609,3,3,2,4,3,2,"Debt Management, Frugal Living and Spending Wisely"
+610,2,3,2,4,3,2,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+611,2,2,3,4,2,2,"Budget & Savings, Debt Management, Financial Planning"
+612,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+613,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+614,3,4,4,4,1,4,Investment Basics
+615,3,3,3,4,3,2,Debt Management
+616,3,3,2,4,3,2,"Debt Management, Frugal Living and Spending Wisely"
+617,3,3,3,4,4,4,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+618,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+619,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+620,3,3,2,4,2,2,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+621,2,2,3,4,5,2,"Budget & Savings, Debt Management, Financial Planning"
+622,3,2,3,4,3,1,Debt Management
+623,3,3,2,4,3,2,"Debt Management, Frugal Living and Spending Wisely"
+624,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+625,1,1,1,4,2,1,"Budget & Savings, Debt Management, Financial Planning"
+626,4,4,4,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+627,3,3,4,4,4,3,"Budget & Savings, Debt Management, Financial Planning"
+628,3,3,1,4,3,3,Frugal Living and Spending Wisely
+629,3,3,3,4,5,2,Debt Management
+630,1,2,2,4,3,2,Financial Planning
+631,3,4,3,4,2,3,Investment Basics
+632,3,2,2,4,2,2,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+633,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+634,1,1,1,4,2,1,"Budget & Savings, Debt Management, Financial Planning"
+635,3,3,3,4,2,3,Investment Basics
+636,2,2,1,4,2,1,"Debt Management, Frugal Living and Spending Wisely"
+637,2,2,2,4,2,2,"Budget & Savings, Debt Management, Financial Planning"
+638,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+639,2,2,2,4,2,2,"Budget & Savings, Debt Management, Financial Planning"
+640,2,3,3,4,4,2,"Debt Management, Financial Planning"
+641,2,2,3,4,3,1,Debt Management
+642,1,2,2,4,2,1,"Debt Management, Financial Planning"
+643,3,3,3,4,3,2,Debt Management
+644,3,3,3,4,5,3,"Budget & Savings, Debt Management, Financial Planning"
+645,3,2,5,4,4,2,"Budget & Savings, Debt Management"
+646,2,2,3,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+647,2,2,3,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+648,3,3,3,4,4,2,Debt Management
+649,3,3,2,4,2,2,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+650,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+651,1,1,1,4,1,1,"Budget & Savings, Debt Management, Financial Planning"
+652,2,3,1,4,3,2,Frugal Living and Spending Wisely
+653,4,3,1,4,3,2,Frugal Living and Spending Wisely
+654,2,2,1,4,3,2,Frugal Living and Spending Wisely
+655,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+656,3,2,2,4,4,1,Debt Management
+657,2,1,1,4,2,2,"Budget & Savings, Frugal Living and Spending Wisely"
+658,4,3,4,4,3,4,"Budget & Savings, Investment Basics"
+659,1,1,1,4,3,1,"Budget & Savings, Debt Management, Financial Planning"
+660,2,1,1,4,4,1,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+661,2,2,3,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+662,2,3,3,4,3,3,Financial Planning
+663,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+664,4,5,3,4,3,5,"Frugal Living and Spending Wisely, Investment Basics"
+665,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+666,2,1,1,4,3,1,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+667,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+668,4,4,5,4,3,4,Investment Basics
+669,3,2,2,4,3,2,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+670,5,5,5,4,3,4,Investment Basics
+671,2,2,2,4,2,2,"Budget & Savings, Debt Management, Financial Planning"
+672,1,1,1,4,2,1,"Budget & Savings, Debt Management, Financial Planning"
+673,4,4,3,4,3,4,"Frugal Living and Spending Wisely, Investment Basics"
+674,4,3,1,4,4,3,Frugal Living and Spending Wisely
+675,3,3,4,4,4,4,"Budget & Savings, Financial Planning"
+676,3,1,2,4,1,1,"Budget & Savings, Debt Management, Investment Basics"
+677,1,3,2,4,2,1,"Debt Management, Financial Planning"
+678,2,2,2,4,2,2,"Budget & Savings, Debt Management, Financial Planning"
+679,2,3,4,4,3,2,"Debt Management, Financial Planning"
+680,3,4,3,4,3,4,"Financial Planning, Frugal Living and Spending Wisely, Investment Basics"
+681,3,2,2,4,3,2,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+682,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+683,1,1,1,4,3,1,"Budget & Savings, Debt Management, Financial Planning"
+684,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+685,3,3,2,4,3,2,"Debt Management, Frugal Living and Spending Wisely"
+686,2,4,2,4,5,3,"Financial Planning, Frugal Living and Spending Wisely"
+687,1,1,2,4,2,2,"Budget & Savings, Financial Planning"
+688,1,2,2,4,3,2,Financial Planning
+689,2,1,2,4,2,1,"Budget & Savings, Debt Management"
+690,4,4,5,4,4,5,"Budget & Savings, Financial Planning, Investment Basics"
+691,3,3,3,4,2,2,"Debt Management, Investment Basics"
+692,2,2,2,4,2,2,"Budget & Savings, Debt Management, Financial Planning"
+693,3,4,4,4,2,2,"Debt Management, Investment Basics"
+694,3,1,3,4,5,1,"Budget & Savings, Debt Management"
+695,1,2,2,4,2,1,"Debt Management, Financial Planning"
+696,1,1,1,4,2,1,"Budget & Savings, Debt Management, Financial Planning"
+697,3,2,1,4,1,1,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+698,3,2,2,4,3,2,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+699,3,2,2,4,2,2,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+700,5,5,5,4,4,5,"Investment Basics, Understanding Taxes"
+701,2,3,2,4,3,2,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+702,2,3,1,4,3,2,Frugal Living and Spending Wisely
+703,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+704,3,3,3,4,3,1,Debt Management
+705,1,1,2,4,2,1,"Budget & Savings, Debt Management, Financial Planning"
+706,1,2,1,4,2,1,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+707,3,5,3,4,3,5,"Financial Planning, Frugal Living and Spending Wisely, Investment Basics"
+708,3,3,4,4,3,2,Debt Management
+709,5,5,4,4,3,5,Investment Basics
+710,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+711,5,5,5,4,5,5,Understanding Taxes
+712,4,4,5,4,3,4,Investment Basics
+713,2,2,3,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+714,3,3,2,4,3,4,Frugal Living and Spending Wisely
+715,1,1,1,4,3,1,"Budget & Savings, Debt Management, Financial Planning"
+716,3,2,2,4,3,2,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+717,2,2,3,4,2,2,"Budget & Savings, Debt Management, Financial Planning"
+718,3,3,3,4,2,2,"Debt Management, Investment Basics"
+719,3,4,3,4,4,4,"Financial Planning, Frugal Living and Spending Wisely"
+720,3,2,2,4,3,2,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+721,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+722,2,2,3,4,4,3,"Budget & Savings, Financial Planning"
+723,3,4,5,4,3,4,"Financial Planning, Investment Basics"
+724,3,4,4,4,3,4,"Financial Planning, Investment Basics"
+725,2,2,2,4,2,1,Debt Management
+726,2,2,2,4,2,1,Debt Management
+727,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+728,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+729,4,5,3,4,5,5,Frugal Living and Spending Wisely
+730,3,2,1,4,1,2,"Frugal Living and Spending Wisely, Investment Basics"
+731,3,4,2,4,3,2,"Debt Management, Frugal Living and Spending Wisely"
+732,4,4,4,4,3,4,Investment Basics
+733,4,2,3,4,3,2,"Budget & Savings, Debt Management"
+734,3,2,4,4,2,3,"Budget & Savings, Investment Basics"
+735,4,4,5,4,4,4,"Budget & Savings, Debt Management, Financial Planning"
+736,1,1,3,4,3,1,"Budget & Savings, Debt Management, Financial Planning"
+737,4,4,4,4,4,5,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+738,3,3,3,4,4,2,Debt Management
+739,2,3,3,4,2,3,"Financial Planning, Investment Basics"
+740,4,5,5,4,4,5,"Financial Planning, Investment Basics, Understanding Taxes"
+741,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+742,2,2,1,4,2,2,Frugal Living and Spending Wisely
+743,2,2,2,4,2,1,Debt Management
+744,1,2,2,4,3,2,Financial Planning
+745,2,3,2,4,2,2,"Debt Management, Financial Planning, Frugal Living and Spending Wisely"
+746,2,3,2,4,3,3,"Financial Planning, Frugal Living and Spending Wisely"
+747,2,1,3,4,2,2,Budget & Savings
+748,3,2,1,4,3,3,Frugal Living and Spending Wisely
+749,4,2,1,4,4,2,Frugal Living and Spending Wisely
+750,2,2,3,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+751,2,3,2,4,3,1,Debt Management
+752,3,2,2,4,2,2,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+753,5,4,5,4,4,5,"Budget & Savings, Investment Basics, Understanding Taxes"
+754,2,2,1,4,3,2,Frugal Living and Spending Wisely
+755,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+756,2,2,3,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+757,4,5,5,4,3,5,Investment Basics
+758,5,3,3,4,5,3,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+759,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+760,2,1,1,4,2,1,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+761,4,4,4,4,3,4,Investment Basics
+762,5,5,4,4,4,5,"Frugal Living and Spending Wisely, Investment Basics, Understanding Taxes"
+763,3,3,3,4,3,2,Debt Management
+764,3,2,3,4,3,1,Debt Management
+765,3,3,2,4,3,3,Frugal Living and Spending Wisely
+766,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+767,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+768,1,1,1,4,1,1,"Budget & Savings, Debt Management, Financial Planning"
+769,2,3,3,4,3,2,"Debt Management, Financial Planning"
+770,1,3,3,4,3,3,Financial Planning
+771,1,2,2,4,2,1,"Debt Management, Financial Planning"
+772,3,2,4,4,3,2,"Budget & Savings, Debt Management"
+773,2,2,2,4,2,3,"Budget & Savings, Financial Planning, Frugal Living and Spending Wisely"
+774,3,3,3,4,3,3,"Budget & Savings, Debt Management, Financial Planning"
+775,2,2,3,4,2,2,"Budget & Savings, Debt Management, Financial Planning"
+776,3,2,4,4,3,1,Debt Management
+777,2,2,2,4,2,2,"Budget & Savings, Debt Management, Financial Planning"
+778,3,2,2,4,3,2,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+779,3,5,4,4,5,5,Financial Planning
+780,3,3,4,4,3,4,"Budget & Savings, Financial Planning, Investment Basics"
+781,5,4,1,4,3,5,Frugal Living and Spending Wisely
+782,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+783,2,3,3,4,3,2,"Debt Management, Financial Planning"
+784,4,3,2,4,3,3,Frugal Living and Spending Wisely
+785,1,1,2,4,3,1,"Budget & Savings, Debt Management, Financial Planning"
+786,2,2,1,4,3,3,Frugal Living and Spending Wisely
+787,4,4,3,4,4,4,Frugal Living and Spending Wisely
+788,2,2,1,4,3,1,"Debt Management, Frugal Living and Spending Wisely"
+789,2,5,1,4,3,1,"Debt Management, Frugal Living and Spending Wisely"
+790,2,2,1,4,1,1,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+791,4,4,4,4,4,3,Debt Management
+792,2,2,2,4,3,2,"Budget & Savings, Debt Management, Financial Planning"
+793,3,4,2,4,3,4,Frugal Living and Spending Wisely
+794,4,3,4,4,2,3,Investment Basics
+795,3,4,2,4,2,2,"Debt Management, Frugal Living and Spending Wisely, Investment Basics"
+796,4,3,2,4,2,3,"Frugal Living and Spending Wisely, Investment Basics"
+797,4,3,3,4,4,3,"Budget & Savings, Debt Management, Frugal Living and Spending Wisely"
+798,2,3,3,4,3,2,"Debt Management, Financial Planning"
+799,3,4,2,4,3,4,Frugal Living and Spending Wisely
